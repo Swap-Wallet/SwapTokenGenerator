@@ -1,0 +1,11 @@
+framework module SwapTokenGenerator {
+  umbrella header "SwapTokenGenerator.h"
+
+  export *
+  module * { export * }
+}
+
+module SwapTokenGenerator.Swift {
+    header "SwapTokenGenerator-Swift.h"
+    requires objc
+}
