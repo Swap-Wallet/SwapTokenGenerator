@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nZFcEiudzk5G1efn6vtH+3Zikic=
+		45/qP1hpurmCeyd0tFktGZzrIDk=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftmodule</key>
 		<data>
-		yw0zY8nkrjmubHS9Nh2k72leQHs=
+		22bpxqMQMr/ULKbK452UDYQFZp4=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		K84Khey4KObSq2uQBbHBlOAdzBY=
+		j3mWtswheHieJevc9RD3IcASXrU=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		K84Khey4KObSq2uQBbHBlOAdzBY=
+		j3mWtswheHieJevc9RD3IcASXrU=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		yw0zY8nkrjmubHS9Nh2k72leQHs=
+		22bpxqMQMr/ULKbK452UDYQFZp4=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		yw0zY8nkrjmubHS9Nh2k72leQHs=
+		22bpxqMQMr/ULKbK452UDYQFZp4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yw0zY8nkrjmubHS9Nh2k72leQHs=
+			22bpxqMQMr/ULKbK452UDYQFZp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8tZiyWCebD8DjAMFCAUJ0e6kG8hv8T6lcWYEUOZuvZg=
+			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -122,11 +122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K84Khey4KObSq2uQBbHBlOAdzBY=
+			j3mWtswheHieJevc9RD3IcASXrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			QF393zNMVhfJV0NYbmYpiQqbM2WitzRWUYZKsMI5sVc=
+			eacH3ss33mnURjZtnPXJS5YZa6uxV5gs5NRWopvLZRs=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftdoc</key>
@@ -144,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K84Khey4KObSq2uQBbHBlOAdzBY=
+			j3mWtswheHieJevc9RD3IcASXrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			QF393zNMVhfJV0NYbmYpiQqbM2WitzRWUYZKsMI5sVc=
+			eacH3ss33mnURjZtnPXJS5YZa6uxV5gs5NRWopvLZRs=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -166,11 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yw0zY8nkrjmubHS9Nh2k72leQHs=
+			22bpxqMQMr/ULKbK452UDYQFZp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8tZiyWCebD8DjAMFCAUJ0e6kG8hv8T6lcWYEUOZuvZg=
+			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftdoc</key>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yw0zY8nkrjmubHS9Nh2k72leQHs=
+			22bpxqMQMr/ULKbK452UDYQFZp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8tZiyWCebD8DjAMFCAUJ0e6kG8hv8T6lcWYEUOZuvZg=
+			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
