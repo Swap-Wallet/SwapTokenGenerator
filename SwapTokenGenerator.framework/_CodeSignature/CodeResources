@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SwapTokenGenerator-Swift.h</key>
 		<data>
-		PuILN9Z2ljYvA57WnD4d2k6kz+A=
+		0xLcu1uXTnOKbC43zF7jw5bki0c=
 		</data>
 		<key>Headers/SwapTokenGenerator.h</key>
 		<data>
@@ -14,47 +14,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		45/qP1hpurmCeyd0tFktGZzrIDk=
+		D9E0zXeJbB1dzVSDE/K+frSpcfg=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftdoc</key>
 		<data>
-		O9CqSjRSgh0ZP18u63zCMUIwmCc=
+		X2bnAsQBSooO2ttk82kF74aO6qM=
+		</data>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftinterface</key>
+		<data>
+		+/FKObPzE1hsbt0q0UbXqyzTNmY=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftmodule</key>
 		<data>
-		22bpxqMQMr/ULKbK452UDYQFZp4=
+		83SxgIarlJtlBSVYD3QN8WcgqN0=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		5SxSU5T+u03lYHFvmp02ih21iAc=
+		B3kRvvlhtcKBQhoT2cAOiDIfUIw=
+		</data>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		yaVRjTyX4qzpQ2UtHCZ7aZtDgyg=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		j3mWtswheHieJevc9RD3IcASXrU=
+		Lb2YCpCLzwNngK/qnQoSDpkn2Z0=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		5SxSU5T+u03lYHFvmp02ih21iAc=
+		B3kRvvlhtcKBQhoT2cAOiDIfUIw=
+		</data>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		yaVRjTyX4qzpQ2UtHCZ7aZtDgyg=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		j3mWtswheHieJevc9RD3IcASXrU=
+		Lb2YCpCLzwNngK/qnQoSDpkn2Z0=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		O9CqSjRSgh0ZP18u63zCMUIwmCc=
+		X2bnAsQBSooO2ttk82kF74aO6qM=
+		</data>
+		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<data>
+		+/FKObPzE1hsbt0q0UbXqyzTNmY=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		22bpxqMQMr/ULKbK452UDYQFZp4=
+		83SxgIarlJtlBSVYD3QN8WcgqN0=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		O9CqSjRSgh0ZP18u63zCMUIwmCc=
+		X2bnAsQBSooO2ttk82kF74aO6qM=
+		</data>
+		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftinterface</key>
+		<data>
+		+/FKObPzE1hsbt0q0UbXqyzTNmY=
 		</data>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		22bpxqMQMr/ULKbK452UDYQFZp4=
+		83SxgIarlJtlBSVYD3QN8WcgqN0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PuILN9Z2ljYvA57WnD4d2k6kz+A=
+			0xLcu1uXTnOKbC43zF7jw5bki0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			8/c/y56hjFRxzMC8Etr2YoL91n5C+hM4O4W8QKY95o0=
+			nKCSF8CaAxvbbljBzAF+tE4H3iC6a+I6oxnKSVJKnN8=
 			</data>
 		</dict>
 		<key>Headers/SwapTokenGenerator.h</key>
@@ -89,110 +109,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O9CqSjRSgh0ZP18u63zCMUIwmCc=
+			X2bnAsQBSooO2ttk82kF74aO6qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0WQBxdYQPblQMro9qA06wYmlVWAmvXG8CuEW5GvE/4=
+			XB8yw5XDU3FDcoQuM/SOzCTvXniDzr2m+AGUrk8DOyg=
+			</data>
+		</dict>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+/FKObPzE1hsbt0q0UbXqyzTNmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			x+OtQ9WLi1t59PJvuGQBbtHxZn7gFObBKTcChQybdwA=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			22bpxqMQMr/ULKbK452UDYQFZp4=
+			83SxgIarlJtlBSVYD3QN8WcgqN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
+			fFzkQEVilvj1He+4he5k/Ugl+uFUjwKcxt4eP1HdvAc=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5SxSU5T+u03lYHFvmp02ih21iAc=
+			B3kRvvlhtcKBQhoT2cAOiDIfUIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			39+6aXn7wBD84sLb4OnO38/Deau6b0STZrvcun5V7pU=
+			ToK5EvHbI5TI+Y8O41cd4CSlkOnmd7Anr1w5+0ebXqc=
+			</data>
+		</dict>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yaVRjTyX4qzpQ2UtHCZ7aZtDgyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			6v+JDnYM/f8YMcGJLbYDbuds81LvIjNFjVVmlyOcNDA=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j3mWtswheHieJevc9RD3IcASXrU=
+			Lb2YCpCLzwNngK/qnQoSDpkn2Z0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eacH3ss33mnURjZtnPXJS5YZa6uxV5gs5NRWopvLZRs=
+			gd/Eqd/vCJ1rDr5teETxnPZ58IJ+Ws2XVE/c4izZoFE=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5SxSU5T+u03lYHFvmp02ih21iAc=
+			B3kRvvlhtcKBQhoT2cAOiDIfUIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			39+6aXn7wBD84sLb4OnO38/Deau6b0STZrvcun5V7pU=
+			ToK5EvHbI5TI+Y8O41cd4CSlkOnmd7Anr1w5+0ebXqc=
+			</data>
+		</dict>
+		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yaVRjTyX4qzpQ2UtHCZ7aZtDgyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			6v+JDnYM/f8YMcGJLbYDbuds81LvIjNFjVVmlyOcNDA=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j3mWtswheHieJevc9RD3IcASXrU=
+			Lb2YCpCLzwNngK/qnQoSDpkn2Z0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eacH3ss33mnURjZtnPXJS5YZa6uxV5gs5NRWopvLZRs=
+			gd/Eqd/vCJ1rDr5teETxnPZ58IJ+Ws2XVE/c4izZoFE=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O9CqSjRSgh0ZP18u63zCMUIwmCc=
+			X2bnAsQBSooO2ttk82kF74aO6qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0WQBxdYQPblQMro9qA06wYmlVWAmvXG8CuEW5GvE/4=
+			XB8yw5XDU3FDcoQuM/SOzCTvXniDzr2m+AGUrk8DOyg=
+			</data>
+		</dict>
+		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+/FKObPzE1hsbt0q0UbXqyzTNmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			x+OtQ9WLi1t59PJvuGQBbtHxZn7gFObBKTcChQybdwA=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			22bpxqMQMr/ULKbK452UDYQFZp4=
+			83SxgIarlJtlBSVYD3QN8WcgqN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
+			fFzkQEVilvj1He+4he5k/Ugl+uFUjwKcxt4eP1HdvAc=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O9CqSjRSgh0ZP18u63zCMUIwmCc=
+			X2bnAsQBSooO2ttk82kF74aO6qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0WQBxdYQPblQMro9qA06wYmlVWAmvXG8CuEW5GvE/4=
+			XB8yw5XDU3FDcoQuM/SOzCTvXniDzr2m+AGUrk8DOyg=
+			</data>
+		</dict>
+		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+/FKObPzE1hsbt0q0UbXqyzTNmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			x+OtQ9WLi1t59PJvuGQBbtHxZn7gFObBKTcChQybdwA=
 			</data>
 		</dict>
 		<key>Modules/SwapTokenGenerator.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			22bpxqMQMr/ULKbK452UDYQFZp4=
+			83SxgIarlJtlBSVYD3QN8WcgqN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgevy/ey+WxuDilKakKyx+3je2BnRq01duBQBGrDI5A=
+			fFzkQEVilvj1He+4he5k/Ugl+uFUjwKcxt4eP1HdvAc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
